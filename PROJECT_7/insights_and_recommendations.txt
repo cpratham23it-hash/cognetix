@@ -1,0 +1,13 @@
+Insights
+
+1. The historical sales data indicates an overall [upward / downward] trend over the observed time period. This suggests a gradual change in customer demand, influenced by long-term business growth or market conditions.
+2. Clear seasonal fluctuations are visible in the sales data. Certain months consistently show higher sales volumes, indicating peak demand periods, while other months experience comparatively lower sales.
+3. The ARIMA-based forecast predicts a *[rise / decline] in sales over the next 12 months. The projected values follow the historical trend and seasonal patterns observed in the dataset.
+4. The presence of recurring seasonal peaks makes sales demand predictable, allowing the business to plan operations more efficiently.
+
+Business Recommendations
+
+1.Inventory levels should be increased prior to high-demand months to prevent stock shortages and lost sales. During low-demand periods, inventory procurement should be optimized to reduce holding costs.
+2. Marketing and promotional campaigns can be strategically scheduled during forecasted low-sales months to stimulate demand and maintain revenue stability.
+3. Workforce and logistics resources should be scaled up during predicted peak seasons and scaled down during off-peak periods to improve operational efficiency.
+4. Regular updates to the forecasting model using new sales data are recommended to improve prediction accuracy and support continuous business planning.

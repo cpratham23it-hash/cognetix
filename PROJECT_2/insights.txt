@@ -1,0 +1,9 @@
+1️. Students with higher parental education levels perform significantly better.
+2️. Females tend to outperform males in reading and writing.
+3️.Race/Ethnicity Group E shows the strongest academic performance.
+4️.Math scores have the widest variation compared to reading and writing.
+5️.Reading and writing scores are strongly correlated.
+6️.Students with completed test preparation courses perform better.
+7️.Total performance increases with parental education level.
+8️.Male students show slightly higher variation in math scores.
+9️.Race/Ethnicity Groups A and B score lower on average.

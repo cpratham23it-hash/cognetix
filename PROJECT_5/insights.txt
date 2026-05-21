@@ -1,0 +1,8 @@
+1. Older customers tend to churn more
+2. Customers with high balance but low activity show higher churn
+3. Credit score has weak correlation with churn
+4. Balance and Age show stronger relationship with churn than salary
+5. Geography has a strong impact on churn
+6. Inactive members are more likely to churn
+7. Customers with only one product churn more
+8. Higher tenure does not guarantee retention
